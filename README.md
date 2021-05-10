@@ -1,0 +1,2 @@
+# userapp
+Walkthrough of Sequelize
